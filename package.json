@@ -1,0 +1,10 @@
+{
+  "name": "mern-pizza",
+  "version": "1.0.0",
+  "description": "MongoDB, ExpressJS, ReactJS, and NodeJS",
+  "main": "server.js",
+  "repository": "https://github.com/MAbdurahman/mern-pizza.git",
+  "author": "Mahdi Abdurrahman <mdbdrrhm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
